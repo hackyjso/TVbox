@@ -313,6 +313,68 @@
 				"分类": "电影$1#电视剧$2#动漫$3#综艺$4"
 			}
 		},
+	      {
+      "key": "獨播",
+      "name": "獨播",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://fm.t4tv.hz.cz/json/duboku.json"
+    },
+    {
+      "key": "haiwaikan",
+      "name": "海外看",
+      "type": 1,
+      "api": "https://haiwaikan.com/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "日本动漫",
+        "国产动漫",
+        "欧美动漫",
+        "国产剧",
+        "韩剧",
+        "日剧",
+        "台剧",
+        "泰剧",
+        "港剧",
+        "欧美剧",
+        "动画电影",
+        "韩国综艺",
+        "国产综艺",
+        "日本综艺",
+        "欧美综艺",
+        "冒险片",
+        "剧情片",
+        "动作片",
+        "同性片",
+        "喜剧片",
+        "奇幻片",
+        "恐怖片",
+        "悬疑片",
+        "惊悚片",
+        "战争片",
+        "歌舞片",
+        "灾难片",
+        "爱情片",
+        "犯罪片",
+        "科幻片",
+        "纪录片",
+        "经典片"
+      ]
+    },
+    {
+      "key": "短劇網",
+      "name": "短劇網",
+      "type": 3,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "api": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/%E7%9F%AD%E5%89%A7%E7%BD%91.js"
+    },
 		{
 			"key": "csp_DiDuan",
 			"name": "👀低端┃外剧",
