@@ -86,16 +86,6 @@
 			"ext": "http://4k.953365.cn:8090/xgapp.php/v2/"
 		},
 		{
-			"key": "一起看 ",
-			"name": "👑一起┃App",
-			"type": 3,
-			"api": "csp_YQKan",
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;364c0f012e73a8801a69900fc25ae9c1",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0
-		},
-		{
 			"key": "琪琪资源",
 			"name": "🫙官源┃切片",
 			"type": 1,
