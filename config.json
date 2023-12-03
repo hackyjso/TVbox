@@ -8,30 +8,15 @@
 	{"key": "NONMING", "name": "农名|直连", "type": 3, "api": "csp_NongMing", "searchable": 1 },
     {"key":"FreeOK","name":" FreeOK","type":3,"api":"csp_Freeok","ext": "https://www.freeok.vip/","嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/"},
     {"key": "豆瓣","name": "豆瓣","type": 3,"api": "csp_Douban","searchable": 0,"changeable": 1,"ext": "./json/douban.json"},
+    {"key":"drpy_js_优酷","name":"优酷","type":3,"api":"./drpy_js/libs/drpy2.min.js","ext":"./drpy_js/js/优酷.js"},
+    {"key":"drpy_js_奇珍异兽","name":"奇珍异兽","type":3,"api":"./drpy_js/libs/drpy2.min.js","ext":"./drpy_js/js/奇珍异兽.js"},
+    {"key":"drpy_js_腾云驾雾","name":"腾云驾雾","type":3,"api":"./drpy_js/libs/drpy2.min.js","ext":"./drpy_js/js/腾云驾雾.js"},
+    {"key":"drpy_js_百忙无果","name":"百忙无果","type":3,"api":"./drpy_js/libs/drpy2.min.js","ext":"./drpy_js/js/百忙无果.js"},
 	{"key": "aidi","name": "爱迪┃外剧","type": 3,"api": "csp_Aaidi","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://api123.adys.app/xgapp.php/v3/"},
 	{"key": "naikan","name": "耐看","type": 3,"api": "csp_Naikan","filterable": 1,"ext": "https://nkvod.com/"},
 	{"key": "Auete","name": "奥特┃直连","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "https://haozhansou.com/"},
 	{"key": "Jugege","name": "剧哥哥┃嗅探","type": 3,"api": "csp_Jugege","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "https://www.jugege.cc/"},
-    {"key": "玩偶","name": "玩偶","type": 3,"api": "csp_Wogg","searchable": 1,"changeable": 0,"ext": {"token": "影視天下第一", "filter": "./json/wogg.json" }},
-    {"key": "賤賤", "name": "鉴片","type": 3,"api": "csp_Jianpian","searchable": 1,"changeable": 1,"ext": "./json/jianpian.json"},    
-    {"key":"czzy","name":"厂长","type":3,"api":"./js/czzy_open.js"},
-    {"key":"kyun77","name":"酷云","type":3,"api":"csp_Kyun77", "searchable": 1, "ext": "https://api.tyun77.cn"},
-    {"key":"yqktv_open","name":"一起看","type":3,"api":"./js/yqktv_open.js"},
-    {"key":"南瓜","name":"南瓜","type":3,"api":"csp_NanGua", "searchable": 1, "ext": "http://ys.changmengyun.com"},
-	{"key":"minicu","name":"迷你库","type":3,"api":"csp_AppYsV2", "searchable": 1, "ext": "http://www.miniku.cc/xgapp.php/v2/"},
-    {
-			"key": "毛驴",
-			"name": "🎀毛驴┃App",
-			"type": 3,
-			"api": "csp_MLYS",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1,
-			"ext": "https://www.maolvys.com/",
-      "jar": "./20231114135337.jar"
-		},
-
-    	{
+	{
 			"key": "feiyun",
 			"name": "☁️飞云┃切片",
 			"type": 3,
@@ -51,17 +36,17 @@
 			"quickSearch": 1,
 			"changeable": 1
 		},
-		 {
-		 	"key": "Xinsj",
-		 	"name": "👓视觉┃直连",
-		 	"type": 3,
-		 	"api": "csp_Xinsj",
-       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;364c0f012e73a8801a69900fc25ae9c1",
-			"searchable": 1,
-		 	"quickSearch": 1,
-		 	"changeable": 0,
-		 	"ext": "https://www.80yy1.com/"
-		 },
+		// {
+		// 	"key": "Xinsj",
+		// 	"name": "👓视觉┃直连",
+		// 	"type": 3,
+		// 	"api": "csp_Xinsj",
+    //   "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;364c0f012e73a8801a69900fc25ae9c1",
+		// 	"searchable": 1,
+		// 	"quickSearch": 1,
+		// 	"changeable": 0,
+		// 	"ext": "https://www.80yy1.com/"
+		// },
 		{
 			"key": "橘子",
 			"name": "🍊橘子┃App",
@@ -84,6 +69,69 @@
 			"changeable": 0,
 			"jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
 			"ext": "http://4k.953365.cn:8090/xgapp.php/v2/"
+		},
+		{
+			"key": "一起看 ",
+			"name": "👑一起┃App",
+			"type": 3,
+			"api": "csp_YQKan",
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;364c0f012e73a8801a69900fc25ae9c1",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0
+		},
+		{
+			"key": "琪琪资源",
+			"name": "🫙官源┃切片",
+			"type": 1,
+			"api": "https://playersll.gaoxin155.com.cn/api.php/provide/vod/",
+			"playerType": 2,
+			"searchable": 1,
+			"changeable": 1,
+			"quickSearch": 1,
+			"categories": [
+				"连续剧",
+				"电影",
+				"综艺",
+				"动漫"
+			]
+		},
+		{
+			"key": "嘿嘿2",
+			"name": "📰嘿嘿┃影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": {
+				"站名": "嘿嘿影视",
+				"主页url": "http://121.62.23.209:6688/appto/v1/home/cateData?id=1",
+				"请求头": "User-Agent$Dart/2.19 (dart:io)",
+				"二次截取": "\"data\"*[&&]",
+				"数组": "{&&}",
+				"图片": "\"vod_pic\"*\"&&\"",
+				"标题": "\"vod_name\"*\"&&\"",
+				"副标题": "\"vod_remarks\"*\"&&\"",
+				"链接": "http://121.62.23.209:6688/appto/v1/vod/getVod?id=+\"vod_id\":&&,+&__platform=android&__ic=fgDdxSaYjcm9bcB3EEDb6yZpi3jPJnlNesR48t8u7KR5Zg9t7oOP3OhXcUqfdcf30TDbuK9cx6wO%2BuqDzCOMWm8OU6m6jjMQd5W56peu5OtP1CfYHz5b1EdzI1HH2qobNv6dQZYtbvBK9Y%2F37El1%2Bw%3D%3D",
+				"线路数组": "\"player_info\":{&&}[不包含:嘿嘿专线三#测试线路1#测试线路3#测试线路5]",
+				"线路标题": "\"show\"*\"&&\"",
+				"导演": "vod_director\"*\"&&\"",
+				"主演": "vod_actor\"*\"&&\"",
+				"简介": "vod_blurb\"*\"&&\"",
+				"播放二次截取": "&&[替换]",
+				"播放数组": "urls*\\[&&\\]",
+				"播放列表": "{&&}",
+				"跳转播放链接": "\"url\"*\"&&\"",
+				"播放标题": "\"name\"*\"&&\"",
+				"跳转解析": "默认$https://json.oorl.cn//api//?key=j5PkI0K5GEl1W2OxqM&url=#外剧专用$https://daina.hk//api//?key=dfbe2ab87db071e0fc62e436b0a9d5e9&url=#嘿嘿专列【稳定更新快】$http://110.42.2.247:880//analysis//json//?uid=2284&my=cdefgijorsCPSTW138&format=json&url=#嘿嘿专线六【蓝光4k可投屏】$https://b.zzxjx.xyz/index/info?secretkey=11ab3f57954594d249289e0898fe6a98&file_id=#嘿嘿专线二$http://110.42.2.98:2222//api//?key=dXVSZKYgTl96F51xWi&url=#嘿嘿专线三$https://cl.ruifeng.lol//api//jsonindex.php//?key=thbuzy9HNCDTSMlDKe&url=#嘿嘿专线五【蓝光4k可投屏】$http://110.42.3.71:5000/api/jiexi/common?Key=txfLlncGeTBnqJwBmH&url=",
+				"播放链接": "解析+\"url\"*\"&&\"",
+				"搜索url": "http://121.62.23.209:6688/appto/v1/vod/getVodSearch?wd={wd}&page=1&type",
+				"搜索模式": "1",
+				"分类url": "http://121.62.23.209:6688/appto/v1/vod/getLists?area={area}&lang={lang}&year={year}&type_id={cateId}&area=&order=time&type_name=&page={catePg}&pageSize=21;;u0域名",
+				"分类": "电影$20#电视剧$21#动漫$22#综艺$23"
+			}
 		},
 		{
 			"key": "爱看",
@@ -319,6 +367,29 @@
 			}
 		},
 		{
+			"key": "龟龟",         //节点 _0x4c4ec1 变量
+			"name": "🐢龟龟┃BPQ",
+			"type": 3,
+			"changeable": 1,
+			"jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"api": "csp_XBPQ",
+			"playerType": "2",
+			"ext": {
+				"主页url": "https://www.jugege.cc/",
+				"副标题": "pic-text text-right\">&&</b>",
+				"搜索模式": "1",
+				"搜索url": "https://www.jugege.cc/vodsearch/{wd}-------------.html",
+				"图片": "data-original=\"&&\"",
+				"嗅探词": "huoshanvod.com#.mp4#m3u8#.m3u8#/tos/",
+				"影片类型": "<div class=\"module-info-tag\">&&立即播放",
+				"导演": "导演：&&</div>",
+				"主演": "主演：&&</div>",
+				"分类": "电影$1#连续剧$2#综艺$3#动漫$4",
+				"分类url": "https://www.jugege.cc/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html"
+			}
+		},
+
+		{
 			"key": "双黄",
 			"name": "🥚双黄┃BPQ",
 			"type": 3,
@@ -365,6 +436,38 @@
 				"分类url": "https://rebozj.pro/show/{cateId}--{area}------{catePg}---{year}.html;;a",
 				"跳转播放链接": "urlDecode(vod_class*url\":\"&&\")"
 			}
+		},
+		// {
+		// 	"key": "dr_兔小贝",
+		// 	"name": "🧒儿童┃启蒙",
+		// 	"type": 3,
+		// 	"api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+		// 	"ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+		// 	"style": {
+		// 		"type": "rect",
+		// 		"ratio": 1.597
+		// 	},
+		// 	"searchable": 0,
+		// 	"quickSearch": 0,
+		// 	"changeable": 0
+		// },
+    {"key": "玩偶","name": "玩偶","type": 3,"api": "csp_Wogg","searchable": 1,"changeable": 0,"ext": {"token": "影視天下第一", "filter": "./json/wogg.json" }},
+    {"key": "賤賤", "name": "鉴片","type": 3,"api": "csp_Jianpian","searchable": 1,"changeable": 1,"ext": "./json/jianpian.json"},    
+    {"key":"czzy","name":"厂长","type":3,"api":"./js/czzy_open.js"},
+    {"key":"kyun77","name":"酷云","type":3,"api":"csp_Kyun77", "searchable": 1, "ext": "https://api.tyun77.cn"},
+    {"key":"yqktv_open","name":"一起看","type":3,"api":"./js/yqktv_open.js"},
+    {"key":"南瓜","name":"南瓜","type":3,"api":"csp_NanGua", "searchable": 1, "ext": "http://ys.changmengyun.com"},
+	{"key":"minicu","name":"迷你库","type":3,"api":"csp_Mnicu", "searchable": 1, "ext": "http://www.miniku.cc/xgapp.php/v2/"},
+    {
+			"key": "毛驴",
+			"name": "🎀毛驴┃App",
+			"type": 3,
+			"api": "csp_MLYS",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"ext": "https://www.maolvys.com/",
+      "jar": "./20231114135337.jar"
 		},
     {"key": "新6V","name": "新6V","type": 3,"api": "csp_Xb6v","searchable": 1,"changeable": 0},
     {"key": "新飘花","name": "飘花","type": 3,"api": "csp_PiaoHua","searchable": 1,"changeable": 0},
