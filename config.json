@@ -32,7 +32,7 @@
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
-	"jar": "m_spider.jar",
+	"jar": "./m_spider.jar",
       "quickSearch": 1,
       "filterable": 1
     },
