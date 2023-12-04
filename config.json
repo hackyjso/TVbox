@@ -12,11 +12,13 @@
     {"key":"drpy_js_奇珍异兽","name":"奇珍异兽","type":3,"api":"./drpy_js/libs/drpy2.min.js","ext":"./drpy_js/js/aiqiyi.js"},
     {"key":"drpy_js_腾云驾雾","name":"腾云驾雾","type":3,"api":"./drpy_js/libs/drpy2.min.js","ext":"./drpy_js/js/tengxun.js"},
     {"key":"drpy_js_百忙无果","name":"百忙无果","type":3,"api":"./drpy_js/libs/drpy2.min.js","ext":"./drpy_js/js/mangguo.js"},
-	{"key": "aidi","name": "爱迪┃外剧","type": 3,"api": "csp_Aaidi","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://api123.adys.app/xgapp.php/v3/"},
+    {"key": "aidi","name": "爱迪┃外剧","type": 3,"api": "csp_Aaidi","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://api123.adys.app/xgapp.php/v3/"},
 	{"key": "naikan","name": "耐看","type": 3,"api": "csp_Naikan","filterable": 1,"ext": "https://nkvod.com/"},
 	{"key": "Auete","name": "奥特┃直连","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "https://haozhansou.com/"},
 	{"key": "Jugege","name": "剧哥哥┃嗅探","type": 3,"api": "csp_Jugege","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "https://www.jugege.cc/"},
-	{
+	  {"key":"七七","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":./qiqi.jar},
+	{"key":"drpy_js_子子影视", "name":"🥏子子影视","type":3,"api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js","ext":"https://xhdwc.tk/js/子子影视.js"}, 
+	  {
 			"key": "feiyun",
 			"name": "☁️飞云┃切片",
 			"type": 3,
@@ -26,16 +28,6 @@
 			"quickSearch": 1,
 			"changeable": 0
 		},
-	      {
-      "key": "csp_Kunyu77",
-      "name": "🐞77影视",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-	"jar": "./m_spider.jar",
-      "quickSearch": 1,
-      "filterable": 1
-    },
 	    {
       "key": "csp_woggcli",
       "name": "♻️T4┃俊哥玩偶",
