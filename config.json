@@ -18,6 +18,7 @@
 	{"key": "Jugege","name": "剧哥哥┃嗅探","type": 3,"api": "csp_Jugege","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "https://www.jugege.cc/"},
 	  {"key":"七七","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"./spider.jar"},
 	{"key":"drpy_js_子子影视", "name":"🥏子子影视","type":3,"api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js","ext":"https://xhdwc.tk/js/子子影视.js"}, 
+	  {"key":"萌米","name":"萌米","type":3,"api":"csp_Appto","playerType":2,"searchable":1,"quickSearch":1,"jar":"./spider.jar","ext":{"key":"QBccRNTdEscBYykPWRbKD7YREjN6AJYJ","ic":"","token":"","url":"http://app.mervod.com:9527","configurl":"/addons/apptov4/app.php/v1/config/get?p=android","api":"/addons/apptov4/app.php/v1/"},"jar":"./danmu.jar;md5;544d0da30e9562be4d820fcc728475f3"}
 	  {
 			"key": "feiyun",
 			"name": "☁️飞云┃切片",
