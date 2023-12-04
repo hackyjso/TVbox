@@ -543,10 +543,6 @@
     {"key": "盤搜索","name": "盤搜索","type": 3, "api": "csp_PanSearch","searchable": 1, "changeable": 0},
     {"key": "push_agent", "name": "推送","type": 3, "api": "csp_Push","searchable": 1, "changeable": 0},
     {"key": "應用商店","name": "應用商店", "type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "./json/market.json"}
-   //  	//https://jx.m3u8.tv/jiexi/?url=
-	//https://www.8090g.cn/?url=
-
-
   ],
   "doh": [
     {
