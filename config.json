@@ -16,7 +16,7 @@
 	{"key": "naikan","name": "耐看","type": 3,"api": "csp_Naikan","filterable": 1,"ext": "https://nkvod.com/"},
 	{"key": "Auete","name": "奥特┃直连","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "https://haozhansou.com/"},
 	{"key": "Jugege","name": "剧哥哥┃嗅探","type": 3,"api": "csp_Jugege","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "https://www.jugege.cc/"},
-	  {"key":"七七","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":./qiqi.jar},
+	  {"key":"七七","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"./spider.jar"},
 	{"key":"drpy_js_子子影视", "name":"🥏子子影视","type":3,"api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js","ext":"https://xhdwc.tk/js/子子影视.js"}, 
 	  {
 			"key": "feiyun",
