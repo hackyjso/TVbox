@@ -429,29 +429,6 @@
 			}
 		},
 		{
-			"key": "龟龟",         //节点 _0x4c4ec1 变量
-			"name": "🐢龟龟┃BPQ",
-			"type": 3,
-			"changeable": 1,
-			"jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-			"api": "csp_XBPQ",
-			"playerType": "2",
-			"ext": {
-				"主页url": "https://www.jugege.cc/",
-				"副标题": "pic-text text-right\">&&</b>",
-				"搜索模式": "1",
-				"搜索url": "https://www.jugege.cc/vodsearch/{wd}-------------.html",
-				"图片": "data-original=\"&&\"",
-				"嗅探词": "huoshanvod.com#.mp4#m3u8#.m3u8#/tos/",
-				"影片类型": "<div class=\"module-info-tag\">&&立即播放",
-				"导演": "导演：&&</div>",
-				"主演": "主演：&&</div>",
-				"分类": "电影$1#连续剧$2#综艺$3#动漫$4",
-				"分类url": "https://www.jugege.cc/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html"
-			}
-		},
-
-		{
 			"key": "双黄",
 			"name": "🥚双黄┃BPQ",
 			"type": 3,
@@ -499,20 +476,20 @@
 				"跳转播放链接": "urlDecode(vod_class*url\":\"&&\")"
 			}
 		},
-		// {
-		// 	"key": "dr_兔小贝",
-		// 	"name": "🧒儿童┃启蒙",
-		// 	"type": 3,
-		// 	"api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-		// 	"ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
-		// 	"style": {
-		// 		"type": "rect",
-		// 		"ratio": 1.597
-		// 	},
-		// 	"searchable": 0,
-		// 	"quickSearch": 0,
-		// 	"changeable": 0
-		// },
+		 {
+		 	"key": "dr_兔小贝",
+		 	"name": "🧒儿童┃启蒙",
+		 	"type": 3,
+		 	"api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+		 	"ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+		 	"style": {
+		 		"type": "rect",
+		 		"ratio": 1.597
+		 	},
+		 	"searchable": 0,
+		 	"quickSearch": 0,
+		 	"changeable": 0
+		 },
     {"key": "玩偶","name": "玩偶","type": 3,"api": "csp_Wogg","searchable": 1,"changeable": 0,"ext": {"token": "影視天下第一", "filter": "./json/wogg.json" }},
     {"key": "賤賤", "name": "鉴片","type": 3,"api": "csp_Jianpian","searchable": 1,"changeable": 1,"ext": "./json/jianpian.json"},    
     {"key":"czzy","name":"厂长","type":3,"api":"./js/czzy_open.js"},
