@@ -19,7 +19,7 @@
       {"key": "鑫鑫影视","name": "💘鑫鑫┃直连💘","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://yingszj.xn--654a.cc/api.php/app/"},
       {"key": "酷影视","name": "💘酷影┃直连💘","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.tvkuys.xyz/api.php/app/","jar": "./jar/wyog1.jar"},
       {"key": "玩偶","name": "💘玩偶┃阿里4K💘","type": 3,"api": "csp_Wogg","searchable": 1,"changeable": 0,"ext": {"token": "影視天下第一", "filter": "./json/wogg.json" }},
-      {"key": "自己","name": "💘自己┃接口💘","type": 1,"api": "http://192.168.1.40/api.php/provide/vod","searchable": 1,"changeable": 1 ,"ext": {"token": "b87da1c2e5bc4067826a2599b4d0e31d"}},   
+      {"key": "自己","name": "💘自己┃接口💘","type": 1,"api": "http://192.168.1.40/api.php/provide/vod","searchable": 1,"changeable": 1 ,"ext": {"token": ""}},   
       {"key": "ziji1","name":"💘自己┃直连💘","type":3,"api":"csp_Ziji", "searchable": 1,"quickSearch":1,"jar":"./jar/custom_spider.jar", "ext":  {"token": "" ,"url":"http://192.168.1.40"}}, 
       {"key": "KuYing","name":"💘影酷┃直连💘","type":3,"api":"csp_KuYing", "searchable": 1,"quickSearch":1}, 
       {"key": "NONMING", "name": "💘明明┃直连💘", "type": 3, "api": "csp_NongMing", "searchable": 1 },
