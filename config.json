@@ -29,7 +29,7 @@
       {"key": "Jugege","name": "💘聚聚┃嗅探💘","type": 3,"api": "csp_Jugege","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "https://www.jugege.cc/"},
       {"key": "kyun77","name":"💘云云┃直连💘","type":3,"api":"csp_Kyun77", "searchable": 1, "ext": "https://api.tyun77.cn"},
       {"key": "Auete","name": "💘特特┃嗅探💘","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "https://auete.pro/"},
-      {"key": "FreeOK","name":" 💘FreeOK┃嗅探💘","type":3,"api":"csp_Freeok","ext": "https://www.freeok.vip/","嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/"},
+      {"key": "FreeOK","name":" 💘FreeOK┃嗅探💘","type":3,"api":"csp_Freeok","timeout":30 ,"ext": "https://www.freeok.vip/","嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/"},
       {"key": "哔嘀","name": "💘嘀嘀┃嗅探💘","type": 3,"api": "csp_Bdys", "searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/hackyjso/box/raw/main/jar/wyog1.jar"},
       {"key": "厂长","name":"💘源源┃直连💘","type": 3,"api": "https://gitee.com/hackyjso/box/raw/main/drpy_js/libs/drpy2.min.js","ext": "https://gitee.com/hackyjso/box/raw/main/drpy_js/js/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90.js"},
       {"key": "天天","name": "💘天天┃直连💘", "type": 3,"api": "csp_TTian", "jar": "https://gitee.com/hackyjso/box/raw/main/jar/wypg.jar","playerType": 1,"changeable": 2,"ext": "http://op.ysdqjs.cn$$$null$$$1"},
