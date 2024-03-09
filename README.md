@@ -1,4 +1,4 @@
-橘子柚主接口：https://juziyou.vip/tv/config.json
+橘子柚主接口：https://juziyou.vip
 
 橘子柚备用接口1：https://gitee.com/hackyjso/box/raw/main/config.json
 
