@@ -221,15 +221,17 @@
         "ext": "https://gitee.com/hackyjso/box/raw/main/json/央视大全.json"
       },
 
-      {
-        "key": "短剧",
-        "name": "💕短剧1💕",
-        "type": 1,
-        "api": "http://zzdj.cc/api.php/provide/vod",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 0
-      },
+    {
+      "key": "短剧",
+      "name": "💕短剧1💕",
+      "type": 3,
+      "api": "csp_App",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://zzdj.cc/api.php/provide/vod",
+      "jar": "http://www.wya6.cn/tz/wyog.php"
+    },
       {
         "key": "横版影院",
         "name": "💕短剧2💕",
