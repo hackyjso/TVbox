@@ -26,6 +26,7 @@
       {"key": "南瓜","name":"💘畅梦┃直连💘","type":3,"api":"csp_NanGua", "searchable": 1, "ext": "http://ys.changmengyun.com"},
       {"key": "naikan","name": "💘奈奈┃直连💘","type": 3,"api": "csp_Naikan","filterable": 1,"searchable": 1,"ext": "https://nkvod.com/"},
       {"key": "ShiJue","name": "💘珏珏┃直连💘","type": 3,"api": "csp_ShiJue","filterable": 1,"searchable": 1,"ext": "https://www.80yy3.com/"},
+      {"key": "laikan","name": "💘莱莱┃直连💘","type": 3,"api": "csp_Naikan","filterable": 1,"searchable": 1,"ext": "https://lkvod.us/"},
       {"key": "Jugege","name": "💘聚聚┃嗅探💘","type": 3,"api": "csp_Jugege","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "https://www.jugege.cc/"},
       {"key": "kyun77","name":"💘云云┃直连💘","type":3,"api":"csp_Kyun77", "searchable": 1, "ext": "https://api.tyun77.cn"},
       {"key": "Auete","name": "💘特特┃嗅探💘","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "https://auete.pro/"},
