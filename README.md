@@ -5,4 +5,4 @@
 橘子柚备用接口2：https://mirror.ghproxy.com/https://raw.githubusercontent.com/hackyjso/box/main/config.json
 
 
-接口几乎每天都有优化，自己拿都测试吧
+自己拿都测试吧
