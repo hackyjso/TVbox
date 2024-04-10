@@ -397,7 +397,7 @@
         "api":"https://gitee.com/hackyjso/box/raw/main/drpy_js/libs/drpy2.min.js",
         "changeable":0,
         "style":{"type":"rect","ratio":1},
-        "ext":"https://gitee.com/hackyjso/box/raw/main/drpy_js/js/i275.js"
+        "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hackyjso/box/main/drpy_js/js/i275.js"
       },
           {
         "key":"js_爱上你听书网",
@@ -406,7 +406,7 @@
         "api":"https://gitee.com/hackyjso/box/raw/main/drpy_js/libs/drpy2.min.js",
         "changeable":0,
         "style":{"type":"rect","ratio":1},
-        "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hackyjso/box/main/drpy_js/js/i275.js"
+        "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hackyjso/box/main/drpy_js/js/爱上你听书网.js"
       },
           {
         "key":"js_博看听书",
