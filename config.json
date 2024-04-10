@@ -406,7 +406,7 @@
         "api":"https://gitee.com/hackyjso/box/raw/main/drpy_js/libs/drpy2.min.js",
         "changeable":0,
         "style":{"type":"rect","ratio":1},
-        "ext":"https://gitee.com/hackyjso/box/raw/main/drpy_js/js/aishang.js"
+        "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hackyjso/box/main/drpy_js/js/i275.js"
       },
           {
         "key":"js_博看听书",
@@ -439,22 +439,13 @@
         "ext":"https://gitee.com/hackyjso/box/raw/main/drpy_js/js/6yue.js"
       },
           {
-        "key":"js_听书网",
-        "name":"📚️┃听书┃天天",
-        "type":3,
-        "api":"https://gitee.com/hackyjso/box/raw/main/drpy_js/libs/drpy2.min.js",
-        "changeable":0,
-        "style":{"type":"rect","ratio":1},
-        "ext":"https://gitee.com/hackyjso/box/raw/main/drpy_js/js/tingshu.js"
-      },
-          {
         "key":"js_有声小说",
         "name":"📚️┃听书┃有声",
         "type":3,
         "api":"https://gitee.com/hackyjso/box/raw/main/drpy_js/libs/drpy2.min.js",
         "changeable":0,
         "style":{"type":"rect","ratio":1},
-        "ext":"https://gitee.com/hackyjso/box/raw/main/drpy_js/js/yousheng.js"
+        "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hackyjso/box/main/drpy_js/js/yousheng.js"
       },
           {
         "key":"js_中华听书网",
