@@ -263,7 +263,7 @@
         "searchable": 0,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/小灯塔科学.json"
+        "ext": "https://gitee.com/hackyjso/box/raw/main/json/%E5%B0%8F%E7%81%AF%E5%A1%94%E5%9B%BD%E5%AD%A6.json"
       },
       {
         "key": "小灯塔地理",
@@ -274,7 +274,7 @@
         "searchable": 0,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/小灯塔地理.json"
+        "ext": "https://gitee.com/hackyjso/box/raw/main/json/小灯塔地理.json"
       },
       {
         "key": "小灯塔百科",
@@ -285,7 +285,7 @@
         "searchable": 0,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/小灯塔百科.json"
+        "ext": "https://gitee.com/hackyjso/box/raw/main/json/小灯塔百科.json"
       },
       {
         "key": "小灯塔国学",
@@ -296,7 +296,7 @@
         "searchable": 0,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/小灯塔国学.json"
+        "ext": "https://gitee.com/hackyjso/box/raw/main/json/小灯塔国学.json"
       },
       {
         "key": "js_亲子",
