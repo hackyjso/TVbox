@@ -1,0 +1,3 @@
+[Fiddler] The connection to 'github.com' failed.  <br />System.Security.SecurityException Failed to negotiate HTTPS connection with server.fiddler.network.https&gt; HTTPS handshake to github.com (for #1929) failed. System.IO.IOException 由于远程方已关闭传输流，身份验证失败。
+
+                                                                                                                                                                                                                                                              
