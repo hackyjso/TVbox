@@ -394,7 +394,7 @@
         "key":"js_i275听书",
         "name":"📚️┃听书┃i275",
         "type":3,
-        "api":"./drpy_js/libs/drpy2.min.js",
+        "api":"https://gitee.com/hackyjso/box/raw/main/drpy_js/libs/drpy2.min.js",
         "changeable":0,
         "style":{"type":"rect","ratio":1},
         "ext":"https://gitee.com/hackyjso/box/raw/main/drpy_js/js/i275.js"
