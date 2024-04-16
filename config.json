@@ -37,7 +37,6 @@
       {"key": "Auete","name": "💘特特┃嗅探💘","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "https://auete.pro/"},
       {"key":"drjs_8号影院","name":"💘8号┃嗅探💘","type":3,"api":"https://gitee.com/hackyjso/box/raw/main/drpy_js/libs/drpy.min.js","ext":"https://gitee.com/hackyjso/box/raw/main/drpy_js/js/8号影院.js"},
       {"key":"drjs_热播库","name":"💘热播库┃嗅探💘","type":3,"api":"https://gitee.com/hackyjso/box/raw/main/drpy_js/libs/drpy.min.js","ext":"https://gitee.com/hackyjso/box/raw/main/drpy_js/js/热播库.js"},
-      {"key": "哔嘀","name": "💘嘀嘀┃直连💘","type": 3,"api": "csp_Bdys", "searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/hackyjso/box/raw/main/jar/wyog1.jar"},
       {"key": "天天","name": "💘天天┃弹幕💘", "type": 3,"api": "csp_TTian", "jar": "https://gitee.com/hackyjso/box/raw/main/jar/wypg.jar","playerType": 1,"changeable": 2,"ext": "http://op.ysdqjs.cn$$$null$$$1"},
       {"key": "酷云","name":"💘酷云┃直连💘","type":3,"api":"csp_Kyun77", "searchable": 1, "ext": "https://api.tyun77.cn"},
       {"key": "Jugege","name": "💘聚聚┃嗅探💘","type": 3,"api": "csp_Jugege","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "https://www.jugege.cc/"},
@@ -191,16 +190,6 @@
       {"key": "bili_open","name": "💘哔哩菟菟💘","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/ck/f09a9dab1983ba9d52d6a33a2059b40f99834c19/box/fengmi/lib/bili_open.js","searchable": 1,"changeable": 0,"ext": { "categories": "沙雕动画#沙雕穿越#沙雕", "cookie": ""}},
       {"key": "酷狗","name": "💘狗狗┃音乐💘","type": 3,"api": "csp_Kugou","searchable": 0,"changeable": 0},
       {
-        "key": "js_a8音乐",
-        "name": "🎸奥迪┃音乐🎸",
-        "type": 3,
-        "api": "https://gitee.com/hackyjso/box/raw/main/drpy_js/libs/drpy2.min.js",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "https://gitee.com/hackyjso/box/raw/main/drpy_js/js/a8音乐.js"
-      },
-      {
         "key": "csp_酷奇",
         "name": "🎸酷奇┃音乐🎸",
         "type": 3,
@@ -211,33 +200,7 @@
       "jar": "https://gitee.com/hackyjso/box/raw/main/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",			
         "ext": "https://gitee.com/hackyjso/box/raw/main/json/酷奇MV.json"
       },
-      {
-        "key": "MTV",
-        "name": "🎸明星┃MV🎸",
-        "jar": "https://gitee.com/hackyjso/box/raw/main/jar/wyz1.jar",
-        "type": 3,
-        "api": "csp_Bili",
-        "style": {
-          "type": "rect",
-          "ratio": 1.597
-        },
-        "searchable": 0,
-        "quickSearch": 0,
-        "changeable": 0,
-        "ext": "https://gitee.com/hackyjso/box/raw/main/json/MTV.json"
-      },
       {"key":"open_视聚场","name":" 💘央视网┃直连💘","type":3,"api":"https://gitee.com/hackyjso/box/raw/main/js/cntv_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-      {
-        "key": "央视经典",
-        "name": "💘CCTV┃经典💘",
-        "type": 3,
-        "api": "csp_Bili",
-        "jar": "https://gitee.com/hackyjso/box/raw/main/jar/wyxy.jar",
-        "searchable": 0,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "https://gitee.com/hackyjso/box/raw/main/json/哔哩经典.json"
-      },
       {
         "key": "cctv",
         "name": "💘CCTV｜大全💘",
@@ -248,21 +211,9 @@
         "filterable": 0,
         "ext": "https://gitee.com/hackyjso/box/raw/main/json/央视大全.json"
       },
-
-      {
-        "key": "短剧",
-        "name": "💕短剧1💕",
-        "type": 3,
-        "api": "csp_App",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 0,
-        "ext": "https://zzdj.cc/api.php/provide/vod",
-        "jar": "http://www.wya6.cn/tz/wyog.php"
-      },
       {
         "key": "横版影院",
-        "name": "💕短剧2💕",
+        "name": "💕短剧💕",
         "type": 1,
         "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list",
         "searchable": 1,
@@ -271,57 +222,6 @@
         "categories": [
           "短剧"
         ]
-      },
-      {
-        "key": "小灯塔科学",
-        "name": "🌏小灯塔科学🌏",
-        "type": 3,
-        "api": "csp_Bili",
-        "jar": "https://gitee.com/hackyjso/box/raw/main/jar/wyxy.jar",
-        "searchable": 0,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "https://gitee.com/hackyjso/box/raw/main/json/小灯塔科学.json"
-      },
-      {
-        "key": "小灯塔地理",
-        "name": "🌏小灯塔地理🌏",
-        "type": 3,
-        "api": "csp_Bili",
-        "jar": "https://gitee.com/hackyjso/box/raw/main/jar/wyxy.jar",
-        "searchable": 0,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "https://gitee.com/hackyjso/box/raw/main/json/小灯塔地理.json"
-      },
-      {
-        "key": "小灯塔百科",
-        "name": "🌏小灯塔百科🌏",
-        "type": 3,
-        "api": "csp_Bili",
-        "jar": "https://gitee.com/hackyjso/box/raw/main/jar/wyxy.jar",
-        "searchable": 0,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "https://gitee.com/hackyjso/box/raw/main/json/小灯塔百科.json"
-      },
-      {
-        "key": "小灯塔国学",
-        "name": "🌏小灯塔国学🌏",
-        "type": 3,
-        "api": "csp_Bili",
-        "jar": "https://gitee.com/hackyjso/box/raw/main/jar/wyxy.jar",
-        "searchable": 0,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "https://gitee.com/hackyjso/box/raw/main/json/小灯塔国学.json"
-      },
-      {
-        "key": "js_亲子",
-        "name": "📚亲子┃教育📚",
-        "type": 3,
-        "api": "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
-        "ext": "https://notabug.org/ygfxz/6/raw/main/js/tongqu.js"
       },
       {
         "key": "幼儿教育",
@@ -336,20 +236,6 @@
       },
       {"key":"open_兔小贝","name":"📚兔小贝📚","type":3,"api":"https://gitee.com/hackyjso/box/raw/main/js/tuxiaobei_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
       {"key":"open_贝乐虎","name":"📚贝乐虎📚","type":3,"api":"https://gitee.com/hackyjso/box/raw/main/js/ubestkid_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-      {
-        "key": "dr_兔小贝",
-        "name": "📚儿童┃启蒙📚",
-        "type": 3,
-        "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-        "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
-        "style": {
-          "type": "rect",
-          "ratio": 1.597
-        },
-        "searchable": 0,
-        "quickSearch": 0,
-        "changeable": 0
-      },
       {
         "key": "少儿教育",
         "name": "📚少儿┃教育📚",
@@ -392,7 +278,7 @@
         "searchable": 0,
         "quickSearch": 0,
         "changeable": 0,
-        "ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/初中课堂.json",
+        "ext": "https://gitee.com/hackyjso/box/raw/main/json/初中课堂.json",
         "jar": "https://gitee.com/hackyjso/box/raw/main/jar/fan1.txt"
       },
       {
@@ -407,7 +293,7 @@
         "searchable": 0,
         "quickSearch": 0,
         "changeable": 0,
-        "ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/高中课堂.json",
+        "ext": "https://gitee.com/hackyjso/box/raw/main/json/高中课堂.json",
         "jar": "https://gitee.com/hackyjso/box/raw/main/jar/fan1.txt"
       },
       {
@@ -475,67 +361,7 @@
         "changeable":0,
         "style":{"type":"rect","ratio":1},
         "ext":"https://gitee.com/hackyjso/box/raw/main/drpy_js/js/zhonghua.js"
-      },	
-
-
-
-    
-
-      {"key": "88kanqiu","name": "⚽88看球⚽","type": 3,"api": "csp_Kanqiu","searchable": 1,"changeable": 0,"style": {"type": "list"}},
-      {"key": "Jrsjs","name": "⚽ Jrs┃球迷⚽","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/hackyjso/box/main/drpy_js/libs/drpy2.min.js","ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hackyjso/box/main/drpy_js/js/jrk.js","style": {"type": "list"}, "searchable": 0,"quickSearch": 0,"changeable": 0 },
-      {
-        "key": "js_武享吧",
-        "name": "🥎┃格斗┃直播🥎",
-        "type": 3,
-        "api": "https://gitee.com/hackyjso/box/raw/main/drpy_js/libs/drpy2.min.js",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 0,
-        "ext": "https://gitee.com/hackyjso/box/raw/main/drpy_js/js/武享吧.js"
       },
-
-      {
-        "key": "csp_XPath_鹅直播",
-        "name": "⚽企鹅┃直播⚽",
-        "type": 3,
-        "api": "csp_XPath",
-        "jar": "https://gitee.com/hackyjso/box/raw/main/jar/wyxy.jar",
-        "searchable": 0,
-        "quickSearch": 0,
-        "filterable": 0,
-        "ext": "https://gitee.com/hackyjso/box/raw/main/json/qie.json"
-      },
-      {
-        "key": "虎牙直播js",
-        "name": "💘虎牙┃直播💘",
-        "type": 3,
-        "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-        "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js",
-        "style": {
-          "type": "list"
-        },
-        "searchable": 0,
-        "quickSearch": 0,
-        "changeable": 0
-      },
-      {
-        "key": "csp_XYQBiu_斗鱼",
-        "name": "💘斗鱼┃直播💘",
-        "type": 3,
-        "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-        "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js",
-        "style": {
-          "type": "rect",
-          "ratio": 1.597
-        },
-        "searchable": 0,
-        "quickSearch": 0,
-        "changeable": 0
-      },
-
-
-    
-
       {"key": "88kanqiu","name": "⚽88看球⚽","type": 3,"api": "csp_Kanqiu","searchable": 1,"changeable": 0,"style": {"type": "list"}},
       {"key": "Jrsjs","name": "⚽ Jrs┃球迷⚽","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/hackyjso/box/main/drpy_js/libs/drpy2.min.js","ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hackyjso/box/main/drpy_js/js/jrk.js","style": {"type": "list"}, "searchable": 0,"quickSearch": 0,"changeable": 0 },
       {
