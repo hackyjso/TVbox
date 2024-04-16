@@ -389,8 +389,8 @@
         "key": "虎牙直播js",
         "name": "💘虎牙┃直播💘",
         "type": 3,
-        "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-        "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js",
+        "api": "https://gitee.com/hackyjso/box/raw/main/drpy_js/libs/drpy2.min.js",
+        "ext": "https://gitee.com/hackyjso/box/raw/main/drpy_js/js/虎牙直播.js",
         "style": {
           "type": "list"
         },
@@ -402,8 +402,8 @@
         "key": "csp_XYQBiu_斗鱼",
         "name": "💘斗鱼┃直播💘",
         "type": 3,
-        "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-        "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js",
+        "api": "https://gitee.com/hackyjso/box/raw/main/drpy_js/libs/drpy2.min.js",
+        "ext": "https://gitee.com/hackyjso/box/raw/main/drpy_js/js/斗鱼直播.js",
         "style": {
           "type": "rect",
           "ratio": 1.597
