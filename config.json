@@ -362,6 +362,14 @@
         "style":{"type":"rect","ratio":1},
         "ext":"https://gitee.com/hackyjso/box/raw/main/drpy_js/js/zhonghua.js"
       },
+    {
+      "key": "JustLive",
+      "name": "JustLive",
+      "type": 3,
+      "api": "csp_JustLive",
+      "searchable": 1,
+      "changeable": 0
+    },
       {"key": "88kanqiu","name": "⚽88看球⚽","type": 3,"api": "csp_Kanqiu","searchable": 1,"changeable": 0,"style": {"type": "list"}},
       {"key": "Jrsjs","name": "⚽ Jrs┃球迷⚽","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/hackyjso/box/main/drpy_js/libs/drpy2.min.js","ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hackyjso/box/main/drpy_js/js/jrk.js","style": {"type": "list"}, "searchable": 0,"quickSearch": 0,"changeable": 0 },
       {
