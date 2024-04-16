@@ -382,48 +382,6 @@
         "filterable": 0,
         "ext": "https://gitee.com/hackyjso/box/raw/main/drpy_js/js/武享吧.js"
       },
-
-      {
-        "key": "csp_XPath_鹅直播",
-        "name": "⚽企鹅┃直播⚽",
-        "type": 3,
-        "api": "csp_XPath",
-        "jar":"https://gitee.com/hackyjso/box/raw/main/jar/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-        "searchable": 0,
-        "quickSearch": 0,
-        "filterable": 0,
-        "ext": "https://gitee.com/hackyjso/box/raw/main/json/qie.json"
-      },
-      {
-        "key": "虎牙直播js",
-        "name": "💘虎牙┃直播💘",
-        "type": 3,
-        "api": "https://gitee.com/hackyjso/box/raw/main/drpy_js/libs/drpy2.min.js",
-        "ext": "https://gitee.com/hackyjso/box/raw/main/drpy_js/js/虎牙直播.js",
-        "style": {
-          "type": "list"
-        },
-        "searchable": 0,
-        "quickSearch": 0,
-        "changeable": 0
-      },
-      {
-        "key": "csp_XYQBiu_斗鱼",
-        "name": "💘斗鱼┃直播💘",
-        "type": 3,
-        "api": "https://gitee.com/hackyjso/box/raw/main/drpy_js/libs/drpy2.min.js",
-        "ext": "https://gitee.com/hackyjso/box/raw/main/drpy_js/js/斗鱼直播.js",
-        "style": {
-          "type": "rect",
-          "ratio": 1.597
-        },
-        "searchable": 0,
-        "quickSearch": 0,
-        "changeable": 0
-      },
-     
-     
-     
       {"key": "櫻花","name": "💘櫻花┃动漫💘","type": 3,"api": "csp_Ying","searchable": 1,"changeable": 1},
       { "key": "巴士","name": "💘巴士┃动漫💘","type": 3,"api": "csp_Dm84","searchable": 1,"changeable": 1},
       {"key": "異界", "name": "💘異界┃动漫💘","type": 3,"api": "csp_Ysj","searchable": 1,"changeable": 1},
