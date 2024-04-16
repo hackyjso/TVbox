@@ -388,6 +388,7 @@
         "name": "⚽企鹅┃直播⚽",
         "type": 3,
         "api": "csp_XPath",
+        "jar":"https://gitee.com/hackyjso/box/raw/main/jar/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
         "searchable": 0,
         "quickSearch": 0,
         "filterable": 0,
