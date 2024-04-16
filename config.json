@@ -419,16 +419,6 @@
       { "key": "巴士","name": "💘巴士┃动漫💘","type": 3,"api": "csp_Dm84","searchable": 1,"changeable": 1},
       {"key": "異界", "name": "💘異界┃动漫💘","type": 3,"api": "csp_Ysj","searchable": 1,"changeable": 1},
       {
-        "key": "稀饭动漫",
-        "name": "💘稀饭┃动漫💘",
-        "type": 3,
-        "api": "csp_Xifan",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 0,
-        "jar": "https://gitee.com/hackyjso/box/raw/main/jar/wyog.jar"
-      },
-      {
         "key": "csp_Anime1",
         "name": "💘日本┃动漫💘",
         "type": 3,
