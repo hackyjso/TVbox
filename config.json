@@ -198,7 +198,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "./drpy_js/js/a8音乐.js"
+        "ext": "https://gitee.com/hackyjso/box/raw/main/drpy_js/js/a8音乐.js"
       },
       {
         "key": "csp_酷奇",
@@ -224,9 +224,9 @@
         "searchable": 0,
         "quickSearch": 0,
         "changeable": 0,
-        "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/MTV.json"
+        "ext": "https://gitee.com/hackyjso/box/raw/main/json/MTV.json"
       },
-      {"key":"open_视聚场","name":" 💘央视网┃直连💘","type":3,"api":"https://gitee.com/hackyjso/box/raw/main/cat/js/cntv_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+      {"key":"open_视聚场","name":" 💘央视网┃直连💘","type":3,"api":"https://gitee.com/hackyjso/box/raw/main/js/cntv_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
       {
         "key": "央视经典",
         "name": "💘CCTV┃经典💘",
@@ -281,7 +281,7 @@
         "searchable": 0,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/小灯塔科学.json"
+        "ext": "https://gitee.com/hackyjso/box/raw/main/json/小灯塔科学.json"
       },
       {
         "key": "小灯塔地理",
@@ -292,7 +292,7 @@
         "searchable": 0,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/小灯塔地理.json"
+        "ext": "https://gitee.com/hackyjso/box/raw/main/json/小灯塔地理.json"
       },
       {
         "key": "小灯塔百科",
@@ -303,7 +303,7 @@
         "searchable": 0,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/小灯塔百科.json"
+        "ext": "https://gitee.com/hackyjso/box/raw/main/json/小灯塔百科.json"
       },
       {
         "key": "小灯塔国学",
@@ -314,7 +314,7 @@
         "searchable": 0,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/小灯塔国学.json"
+        "ext": "https://gitee.com/hackyjso/box/raw/main/json/小灯塔国学.json"
       },
       {
         "key": "js_亲子",
@@ -332,10 +332,10 @@
         "searchable": 0,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/哔哩幼小.json"
+        "ext": "https://gitee.com/hackyjso/box/raw/main/json/哔哩幼小.json"
       },
-      {"key":"open_兔小贝","name":"📚兔小贝📚","type":3,"api":"https://gitee.com/hackyjso/box/raw/main/open/tuxiaobei_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-      {"key":"open_贝乐虎","name":"📚贝乐虎📚","type":3,"api":"https://gitee.com/hackyjso/box/raw/main/open/ubestkid_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+      {"key":"open_兔小贝","name":"📚兔小贝📚","type":3,"api":"https://gitee.com/hackyjso/box/raw/main/js/tuxiaobei_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+      {"key":"open_贝乐虎","name":"📚贝乐虎📚","type":3,"api":"https://gitee.com/hackyjso/box/raw/main/js/ubestkid_open.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
       {
         "key": "dr_兔小贝",
         "name": "📚儿童┃启蒙📚",
@@ -363,7 +363,7 @@
         "searchable": 0,
         "quickSearch": 0,
         "changeable": 0,
-        "ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/少儿教育.json"
+        "ext": "https://gitee.com/hackyjso/box/raw/main/json/少儿教育.json"
       },
       {
         "key": "小学课堂",
@@ -377,7 +377,7 @@
         "searchable": 0,
         "quickSearch": 0,
         "changeable": 0,
-        "ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/小学课堂.json",
+        "ext": "https://gitee.com/hackyjso/box/raw/main/json/小学课堂.json",
         "jar": "https://gitee.com/hackyjso/box/raw/main/jar/fan1.txt"
       },
       {
