@@ -11,7 +11,7 @@
       {"key": "ziji2","name":"💘橘子柚┃4K|弹幕💘","type":3,"api":"csp_Zijijiekou", "searchable": 1,"quickSearch":1, "ext":  {"token": "" ,"url":"https://www.juziyou.vip"}}, 
 
       {"key": "Zuiju","name":"💘好剧┃弹幕💘","type":3,"api":"csp_Zuiju", "searchable": 1,"quickSearch":1}, 
-      {"key":"两个BT","name":"💘两个BT|弹幕💘","type":3,"api":"csp_Bttwo","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":""},
+      {"key":"两个BT","name":"💘两个BT|弹幕💘","type":3,"api":"csp_Bttwo","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://www.bttwoo.com/"},
       {"key":"csp_极光","name":"💘极光┃弹幕💘","type":3,"api":"csp_Jiguang","searchable":1,"quickSearch":1,"changeable":1},
       {"key": "玩偶","name": "💘玩偶┃阿里4K💘","type": 3,"api": "csp_Wogg","searchable": 1,"changeable": 0,"ext": {"token": "", "url":"https://www.wogg.xyz/" }},
       {"key": "百篇","name":"💘白白┃弹幕💘","type":3,"api":"csp_Baipiao", "searchable": 1,"quickSearch":1}, 
