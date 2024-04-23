@@ -14,7 +14,7 @@
       {"key":"两个BT","name":"💘两个BT|弹幕💘","type":3,"api":"csp_Bttwo","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://www.bttwoo.com/"},
       {"key":"csp_极光","name":"💘极光┃弹幕💘","type":3,"api":"csp_Jiguang","searchable":1,"quickSearch":1,"changeable":1},
       {"key": "玩偶","name": "💘玩偶┃阿里4K💘","type": 3,"api": "csp_Wogg","searchable": 1,"changeable": 0,"ext": {"token": "", "url":"https://www.wogg.xyz/" }},
-      {"key": "百篇","name":"💘白白┃弹幕💘","type":3,"api":"csp_Baipiao", "searchable": 1,"quickSearch":1}, 
+      {"key": "百篇","name":"💘白白┃弹幕💘","type":3,"api":"csp_Baipiao", "searchable": 1,"quickSearch":1,"ext": "https://www.baipiaoys.com:9092/"}, 
       {"key": "影视五","name": "💘影萌┃直连💘","type": 3,"api": "csp_Movie2","searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "https://gitee.com/hackyjso/box/raw/main/json/Movie5.json","jar": "https://gitee.com/hackyjso/box/raw/main/jar/wyog.jar"},
       {"key": "FreeOK","name":" 💘FreeOK┃弹幕💘","type":3,"api":"csp_Freeok","ext": "https://www.freeok.pro/","嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/"},
       {"key": "厂","name":"💘源源┃弹幕💘","type": 3,"api": "csp_Czzy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.cz233.com/"},
