@@ -23,7 +23,7 @@
       {"key": "KuYing","name":"💘酷酷┃弹幕💘","type":3,"api":"csp_KuYing", "searchable": 1,"quickSearch":1}, 
       {"key": "賤賤", "name": "💘贱贱┃直连💘","type": 3,"api": "csp_Jianpian","searchable": 1,"changeable": 1,"ext": "https://gitee.com/hackyjso/box/raw/main/json/jianpian.json"},    
       {"key": "南瓜","name":"💘梦梦┃弹幕💘","type":3,"api":"csp_NanGua", "searchable": 1, "ext": "http://ys.changmengyun.com"},
-      {"key":"NanGua","name":"南瓜2|直连","type":3,"api":"csp_NanGua","jar":"https://gitee.com/hackyjso/box/raw/main/jar/pg.jar","searchable":1,"changeable":1,"ext":"null$$$1"},
+      {"key":"NanGua","name":"💘南瓜|直连💘","type":3,"api":"csp_NanGua","jar":"https://gitee.com/hackyjso/box/raw/main/jar/pg.jar","searchable":1,"changeable":1,"ext":"null$$$1"},
       {"key": "ShiJue","name": "💘珏珏┃弹幕💘","type": 3,"api": "csp_ShiJue","filterable": 1,"searchable": 1,"ext": "https://www.80yy3.com/"},
       {"key": "laikan","name": "💘莱莱┃直连💘","type": 3,"api": "csp_Naikan","filterable": 1,"searchable": 1,"ext": "https://lkvod.us/"},
       {"key":"drjs_子子影视","name":"💘子子┃直连💘","type":3,"api":"https://gitee.com/hackyjso/box/raw/main/drpy_js/libs/drpy.min.js","ext":"https://gitee.com/hackyjso/box/raw/main/drpy_js/js/子子影视.js"},
