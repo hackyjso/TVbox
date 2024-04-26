@@ -17,16 +17,21 @@
       {"key": "百篇","name":"💘白白┃弹幕💘","type":3,"api":"csp_Baipiao", "searchable": 1,"quickSearch":1,"ext": "https://www.baipiaoys.com:9092/"}, 
     //  {"key": "影视五","name": "💘影萌┃直连💘","type": 3,"api": "csp_Movie2","searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "https://gitee.com/hackyjso/box/raw/main/json/Movie5.json","jar": "https://gitee.com/hackyjso/box/raw/main/jar/wyog.jar"},
       {"key": "FreeOK","name":" 💘FreeOK┃弹幕💘","type":3,"api":"csp_Freeok","ext": "https://www.freeok.pro/","嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/"},
-      {"key": "厂","name":"💘源源┃弹幕💘","type": 3,"api": "csp_Czzy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.cz233.com/"},
-      {"key": "subai","name":"💘素素┃弹幕💘","type": 3,"api": "csp_Subaibai","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.subaibaiys.com/"},
-
       {"key": "KuYing","name":"💘酷酷┃弹幕💘","type":3,"api":"csp_KuYing", "searchable": 1,"quickSearch":1}, 
       {"key": "賤賤", "name": "💘贱贱┃直连💘","type": 3,"api": "csp_Jianpian","searchable": 1,"changeable": 1,"ext": "https://gitee.com/hackyjso/box/raw/main/json/jianpian.json"},    
       {"key": "南瓜","name":"💘梦梦┃弹幕💘","type":3,"api":"csp_NanGua", "searchable": 1, "ext": "http://ys.changmengyun.com"},
       {"key":"NanGua","name":"💘南瓜|直连💘","type":3,"api":"csp_NanGua","jar":"https://gitee.com/hackyjso/box/raw/main/jar/pg.jar","searchable":1,"changeable":1,"ext":"null$$$1"},
+      {"key": "NONMING", "name": "💘明明┃直连💘", "type": 3, "api": "csp_WexNmys", "searchable": 1,"jar": "https://gitee.com/hackyjso/box/raw/main/jar/ou.jar" },
+      {"key":"兄弟影视","name":"💘兄弟┃影视💘","type":3,"api":"csp_Wexxiongdiys","searchable":1,"changeable":1,"jar": "https://gitee.com/hackyjso/box/raw/main/jar/ou.jar"},
+      {"key":"腐剧视频","name":"💘腐剧┃影视💘","type":3,"api":"csp_WexFujutv","searchable":1,"changeable":1,"jar": "https://gitee.com/hackyjso/box/raw/main/jarr/ou.jar"},
+      {"key": "厂","name":"💘源源┃弹幕💘","type": 3,"api": "csp_Czzy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.cz233.com/"},
+
+
+
       {"key": "ShiJue","name": "💘珏珏┃弹幕💘","type": 3,"api": "csp_ShiJue","filterable": 1,"searchable": 1,"ext": "https://www.80yy3.com/"},
       {"key": "laikan","name": "💘莱莱┃直连💘","type": 3,"api": "csp_Naikan","filterable": 1,"searchable": 1,"ext": "https://lkvod.us/"},
       {"key":"drjs_子子影视","name":"💘子子┃直连💘","type":3,"api":"https://gitee.com/hackyjso/box/raw/main/drpy_js/libs/drpy.min.js","ext":"https://gitee.com/hackyjso/box/raw/main/drpy_js/js/子子影视.js"},
+      {"key": "subai","name":"💘素素┃弹幕💘","type": 3,"api": "csp_Subaibai","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.subaibaiys.com/"},
 
       {"key": "本地","name": "💘本地💘", "type": 3,"api": "csp_Local","searchable": 0,"changeable": 0},
       {"key": "Aid","name": "🚑急救┃教学🚑","type": 3, "api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 1.597}},
