@@ -21,7 +21,7 @@
       {"key": "賤賤", "name": "💘贱贱┃直连💘","type": 3,"api": "csp_Jianpian","searchable": 1,"changeable": 1,"ext": "https://gitee.com/hackyjso/box/raw/main/json/jianpian.json"},    
       {"key": "南瓜","name":"💘梦梦┃弹幕💘","type":3,"api":"csp_NanGua", "searchable": 1, "ext": "http://ys.changmengyun.com"},
       {"key":"NanGua","name":"💘南瓜|直连💘","type":3,"api":"csp_NanGua","jar":"https://gitee.com/hackyjso/box/raw/main/jar/pg.jar","searchable":1,"changeable":1,"ext":"null$$$1"},
-      {"key": "NONMING", "name": "💘明明┃直连💘", "type": 3, "api": "csp_WexNmys", "searchable": 1,"jar": "https://gitee.com/hackyjso/box/raw/main/jar/ou.jar" },
+//      {"key": "NONMING", "name": "💘明明┃直连💘", "type": 3, "api": "csp_WexNmys", "searchable": 1,"jar": "https://gitee.com/hackyjso/box/raw/main/jar/ou.jar" },
       {"key":"兄弟影视","name":"💘兄弟┃影视💘","type":3,"api":"csp_Wexxiongdiys","searchable":1,"changeable":1,"jar": "https://gitee.com/hackyjso/box/raw/main/jar/ou.jar"},
       {"key":"腐剧视频","name":"💘腐剧┃影视💘","type":3,"api":"csp_WexFujutv","searchable":1,"changeable":1,"jar": "https://gitee.com/hackyjso/box/raw/main/jarr/ou.jar"},
       {"key": "厂","name":"💘源源┃弹幕💘","type": 3,"api": "csp_Czzy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.cz233.com/"},
