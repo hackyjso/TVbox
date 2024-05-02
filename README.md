@@ -9,11 +9,17 @@
 以下是给不会配置接口的或者懒得折腾，做了内置接口的蜂蜜影视APP，直接下载就可以
 
 电视横板：leanback-java-arm64_v8a.apk
+
 电视横板32位：leanback-java-armeabi_v7a
+
 手机平板：mobile-java-arm64_v7a.apk
+
 手机平板32位：mobile-java-armeabi_v7a
+
 蓝奏：https://wwf.lanzoue.com/b00rmzctbi 密码:3pke
+
 夸克：https://pan.quark.cn/s/69cdae80a2b9
+
 
 自己拿都测试吧
 
