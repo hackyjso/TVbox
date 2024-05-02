@@ -6,6 +6,8 @@
 
 橘子柚备用接口2：https://mirror.ghproxy.com/https://raw.githubusercontent.com/hackyjso/box/main/config.json
 
+--------------------------------------------------------------------------------------------------------------
+
 以下是给不会配置接口的或者懒得折腾，做了内置接口的蜂蜜影视APP，直接下载就可以
 
 电视横板：leanback-java-arm64_v8a.apk
