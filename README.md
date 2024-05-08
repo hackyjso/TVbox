@@ -2,7 +2,7 @@
 
 橘子柚主接口：https://juziyou.vip/tv
 
-橘子柚备用接口：https://mirror.ghproxy.com/https://raw.githubusercontent.com/hackyjso/box/main/config.json
+橘子柚备用接口：https://mirror.ghproxy.com/https://raw.githubusercontent.com/hackyjso/box/main/jzy.txt
 
 --------------------------------------------------------------------------------------------------------------
 
