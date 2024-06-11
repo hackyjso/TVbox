@@ -1,5 +1,7 @@
 麻烦大家帮我点star谢谢了
 
+主接口暂时不能用，请用备用接口，等待修复吧 
+
 橘子柚主接口：http://juziyou.vip/tv
 
 橘子柚备用接口：https://mirror.ghproxy.com/https://raw.githubusercontent.com/hackyjso/box/main/jzy.txt
